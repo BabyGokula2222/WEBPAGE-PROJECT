@@ -1,4 +1,12 @@
-# WEBPAGE-PROJECT
+# WEBPAGE-PROJECT:
+Project 1:Baby’s ice cream (Web page)
+* Technologies Used: HTML5, CSS3
+* Description:
+* Developed a responsive and visually appealing web page for"Baby’s ice cream"using HTML and CSS.
+* Designed and implemented a clean navigation bar with sections like Home, Flavors, Services, Branches, Contact,
+About and Buy Now.
+* Focused on creating a user-friendly layout, attractive styling,and smooth navigation to enhance the overall user
+experience.
 # HTML CODE:
 <!DOCTYPE html>
 <html lang="en">
